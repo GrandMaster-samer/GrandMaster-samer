@@ -47,7 +47,7 @@
 | Project | What it is | Built with |
 | --- | --- | --- |
 | [**Solo Calisthenics**](https://github.com/GrandMaster-samer/solo-calisthenics) | Offline-first training app. It plans your week, adapts as you log, keeps data encrypted, and works in English and Arabic (RTL). | Flutter, Dart, Riverpod, Drift + SQLCipher |
-| [**Food Delivery App**](https://github.com/GrandMaster-samer/food-delivery-app) | My CS senior project, built with a partner: browse menus, order and track deliveries. | *see repo* |
+| [**Food Delivery App**](https://github.com/GrandMaster-samer/food-delivery-app) | My CS senior project, built with a partner: one Android app for customers, restaurants, drivers and admins, with live order tracking. | Android, Java, Firebase, Google Maps |
 | [**IPv4 Subnet Calculator**](https://github.com/GrandMaster-samer/subnet-calculator) · [live](https://grandmaster-samer.github.io/subnet-calculator/) | Network, broadcast, host range, binary view and subnet splitting, live in the browser. | JavaScript |
 | [**CSV Cleaner**](https://github.com/GrandMaster-samer/csv-cleaner) | Command-line tool that cleans messy CSV files. No dependencies, 13 unit tests. | Python |
 | [**Subscription Tracker**](https://github.com/GrandMaster-samer/subscription-tracker) · [live](https://grandmaster-samer.github.io/subscription-tracker/) | Tracks customers, renewals and monthly income, with CSV export. | JavaScript |
